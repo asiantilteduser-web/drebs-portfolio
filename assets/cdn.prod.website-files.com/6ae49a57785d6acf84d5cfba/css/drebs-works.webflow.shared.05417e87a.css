@@ -445,7 +445,7 @@ pre.w-code-block code > span {
   font-size: 12px !important;
   line-height: 14px !important;
   text-decoration: none !important;
-  display: inline-block !important;
+  display: none !important;
   position: fixed !important;
   inset: auto 12px 12px auto !important;
   transform: none !important;
